@@ -36,11 +36,11 @@ public class Humain {
 		}
 	}
 	
-	private void gagnerArgent(int gain) {
+	protected void gagnerArgent(int gain) {
 		Argentamt+=gain;
 	}
 	
-	private void perdreArgent(int perte) {
+	protected void perdreArgent(int perte) {
 		Argentamt-=perte;
 	}
 	
