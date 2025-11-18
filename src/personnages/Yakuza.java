@@ -34,10 +34,8 @@ public class Yakuza extends Humain {
 	public int getReputation() {
 	    return reputation;
 	}
+	
+	
 }
 	
-    
-    
-    
-    
-}
+
